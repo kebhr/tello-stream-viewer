@@ -1,0 +1,16 @@
+{
+  "name": "tello-stream-viewer",
+  "version": "1.0.0",
+  "description": "Receive Tello's video stream and play it.",
+  "main": "main.js",
+  "repository": "https://github.com/kebhr/tello-stream-viewer",
+  "author": "kebhr",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^21.2.0"
+  },
+  "dependencies": {}
+}
